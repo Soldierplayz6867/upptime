@@ -5,12 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,3 +23,52 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+i18n:
+  allSystemsOperational: 系統全數正常
+  liveStatus: 即時狀態
+  overallUptime: "平均在線時間: $UPTIME"
+  overallUptimeTitle: 平均在線時間
+  averageResponseTime: "平均回應時間: $TIMEms"
+  averageResponseTimeTitle: 平均回應時間
+  sevelDayResponseTime: 7-天 回應時間
+  responseTimeMs: 回應時間 (ms)
+  up: 在線
+  down: 離線
+  degraded: 降級
+  ms: ms
+  loading: 載入中
+  status: "狀態"
+  history: "歷史"
+  pastScheduledMaintenance: 過去計劃維護
+  scheduledMaintenance: 計劃維護
+  scheduledMaintenanceSummaryStarted: 開始於 $DATE 共 $DURATION 分鐘
+  scheduledMaintenanceSummaryStarts: 開始於 $DATE 共 $DURATION 分鐘
+  startedAt: 開始於
+  startsAt: 開始於
+  duration: 時長
+  durationMin: $DURATION 分鐘
+  incidentCompleted: 已完成
+  incidentScheduled: 已排程
+  incidentReport: "#$NUMBER 事件報告 →"
+  activeIncidentSummary: 開始於 $DATE 共有 $POSTS 則貼文
+  incidentTitle: $NUMBER 事件詳情
+  incidentDetails: 事件詳情
+  incidentFixed: 已處理
+  incidentOngoing: 處理中
+  incidentOpenedAt: 開始於
+  incidentClosedAt: 結束於
+  incidentViewOnGitHub: 在 Github 上顯示或訂閱
+  incidentCommentSummary: 貼文於 $DATE 來自 $AUTHOR
+  incidentBack: ← 返回至所有事件
+  pastIncidents: 過去事件
+  pastIncidentsResolved: 處理共 $MINUTES 分鐘，共有 $POSTS 則貼文
+  footer: Copyright © 2022-2022 Backup Mode. All Rights Reserved.
