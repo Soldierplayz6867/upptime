@@ -3,11 +3,11 @@ owner: Soldierplayz6867 # Your GitHub organization or username, where this repos
 repo: upptime # The name of this repository
 
 sites:
-  - name: 首頁
+  - name: Homepage
     url: https://home.soldierplayz.site
-  - name: 部落格
+  - name: Blog
     url: https://soldierplayz.site
-  - name: 個人頁面
+  - name: Me
     url: https://me.soldierplayz.site
 
 status-website:
