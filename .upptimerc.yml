@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://i0.wp.com/soldierplayz.site/wp-content/uploads/2022/08/cropped-image.png
   favicon: https://i0.wp.com/soldierplayz.site/wp-content/uploads/2022/08/cropped-image.png
-  name: Upptime
+  name: 狀態頁面
   theme: dark
   navbar:
     - title: 首頁
