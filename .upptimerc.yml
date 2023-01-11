@@ -20,7 +20,9 @@ status-website:
   name: Upptime
   theme: dark
   navbar:
-    - title: Status
+    - title: 首頁
+      href: https://home.soldierplayz.site
+    - title: 狀態
       href: /
 
 # Upptime also supports notifications, assigning issues, and more
