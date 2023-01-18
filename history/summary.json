@@ -22,7 +22,7 @@
     "url": "https://soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/soldierplayz.site.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 3854,
     "timeMonth": 3854,
     "timeYear": 3854,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   },
   {
     "name": "Me",
