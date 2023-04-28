@@ -26,7 +26,7 @@
     "uptime": "87.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "81.90%",
+    "uptimeMonth": "81.92%",
     "uptimeYear": "87.25%",
     "time": 2538,
     "timeDay": 1938,
@@ -68,19 +68,19 @@
     "url": "https://me.soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/me.soldierplayz.site.ico",
     "slug": "me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 1442,
-    "timeWeek": 566,
-    "timeMonth": 719,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 392,
+    "timeDay": 1003,
+    "timeWeek": 517,
+    "timeMonth": 702,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2023-04-28": 0
+      "2023-04-28": 11
     }
   }
 ]
