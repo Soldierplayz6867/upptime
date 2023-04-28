@@ -4,9 +4,9 @@
     "url": "https://home.soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/home.soldierplayz.site.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 441,
     "timeMonth": 292,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-28": 0
+    }
   },
   {
     "name": "Blog",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/soldierplayz.site.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "87.25%",
+    "uptime": "87.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "81.92%",
-    "uptimeYear": "87.25%",
+    "uptimeMonth": "82.52%",
+    "uptimeYear": "87.28%",
     "time": 2538,
     "timeDay": 1938,
     "timeWeek": 1683,
@@ -68,19 +70,19 @@
     "url": "https://me.soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/me.soldierplayz.site.ico",
     "slug": "me",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 392,
-    "timeDay": 1003,
-    "timeWeek": 517,
-    "timeMonth": 702,
-    "timeYear": 392,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 389,
+    "timeDay": 788,
+    "timeWeek": 480,
+    "timeMonth": 687,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2023-04-28": 11
+      "2023-04-28": 0
     }
   }
 ]
