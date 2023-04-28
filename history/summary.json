@@ -4,19 +4,19 @@
     "url": "https://home.soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/home.soldierplayz.site.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 756,
-    "timeWeek": 441,
-    "timeMonth": 292,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 344,
+    "timeDay": 501,
+    "timeWeek": 416,
+    "timeMonth": 291,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-04-28": 0
+      "2023-04-28": 13
     }
   },
   {
@@ -28,7 +28,7 @@
     "uptime": "87.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "82.52%",
+    "uptimeMonth": "82.55%",
     "uptimeYear": "87.28%",
     "time": 2538,
     "timeDay": 1938,
@@ -70,19 +70,19 @@
     "url": "https://me.soldierplayz.site",
     "icon": "https://icons.duckduckgo.com/ip3/me.soldierplayz.site.ico",
     "slug": "me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 788,
-    "timeWeek": 480,
-    "timeMonth": 687,
-    "timeYear": 389,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 388,
+    "timeDay": 678,
+    "timeWeek": 458,
+    "timeMonth": 674,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2023-04-28": 0
+      "2023-04-28": 13
     }
   }
 ]
