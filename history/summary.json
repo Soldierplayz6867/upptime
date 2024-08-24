@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.soldierplayz.site.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "35.83%",
+    "uptime": "35.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 73,
+      "2024-08-24": 71,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -379,8 +380,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/soldierplayz.site.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "28.40%",
+    "uptime": "28.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 597,
+    "time": 584,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 73,
+      "2024-08-24": 71,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -763,8 +764,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/me.soldierplayz.site.ico",
     "slug": "me",
     "status": "down",
-    "uptime": "21.50%",
+    "uptime": "21.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 155,
+    "time": 154,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 73,
+      "2024-08-24": 71,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -1147,8 +1148,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   }
 ]
